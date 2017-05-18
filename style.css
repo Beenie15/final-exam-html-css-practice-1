@@ -7,3 +7,8 @@ body {
 	line-height: 1.5em;
 	padding: 0 10px;
 }
+
+img {
+	margin: 0px auto;
+	max-width: 90px;
+}	
